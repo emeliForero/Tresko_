@@ -54,7 +54,7 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
-ROOT_URLCONF = 'treko.urls'
+ROOT_URLCONF = 'tresko.urls'
 
 TEMPLATES = [
     {
