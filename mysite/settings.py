@@ -35,6 +35,8 @@ ALLOWED_HOSTS = ["*"]
 # Application definition
 
 INSTALLED_APPS = [
+    'tresko.apps.MyAccountManager',
+    'tresko.apps.Workspace',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
